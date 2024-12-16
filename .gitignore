@@ -74,16 +74,4 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 ###JetBrains IDE
-# Default ignored files
-/shelf/
-/workspace.xml
-# Rider ignored files
-/modules.xml
-/.idea.FPS_Project.iml
-/contentModel.xml
-/projectSettingsUpdater.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+/.idea/
